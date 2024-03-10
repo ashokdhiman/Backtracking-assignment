@@ -133,7 +133,5 @@ public class Assignment {
         int terget=k;
         System.out.println(subsetProduct(array,terget));
         System.out.println();
-
-        System.out.println("\nSpiC AD :)");
     }
 }
